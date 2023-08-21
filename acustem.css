@@ -1,0 +1,53 @@
+.fa-linkedin{
+   
+    color:black;
+}
+.fa-facebook-square{
+   
+    color:black;
+}
+.fa-youtube{
+    
+    color:black;
+}
+.fa-instagram{
+   
+    color:black;
+}
+.fa-whatsapp-square{
+   
+    color:black;
+}
+
+h1{
+    font-family: 'Assistant', sans-serif;
+    color: orange;
+    font-weight: 800;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+figure{
+    display: flex;
+}
+figure a {
+    text-decoration: none;
+    color: inherit;
+}
+

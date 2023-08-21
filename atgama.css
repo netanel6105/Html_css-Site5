@@ -1,0 +1,239 @@
+#cv{
+    /*
+   width: 950px;
+   margin-top: 10px;
+   border-bottom: 1px  2px black;
+   margin: 0 auto;
+   */
+ 
+
+
+}
+#allheader {
+    background-color: rgba(0, 0, 0, 0.821);
+    color: white;
+    margin: 0 auto;
+
+}
+
+#main {
+    padding: auto;
+    padding: 25px;
+
+}
+
+#intro {
+    display: flex;
+    align-items: center;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #a5a5a5;
+}
+
+#intro img {
+    margin-right: 25px;
+    width: 240px;
+    height: 230px;
+    border-radius: 150%;
+}
+
+#intro header {
+    display: block;
+    margin-left: 25px;
+    display: inline;
+}
+
+
+#about {
+    padding: 15px;
+    border-left: 2px solid #a5a5a5;
+
+}
+
+#contact-info {
+    border-bottom: 2px solid #a5a5a5;
+    display: flex;
+}
+
+#contact-info ul {
+    list-style: none;
+
+}
+
+#contact-info ul:first-child {
+    font-weight: 600;
+}
+
+#about article p {
+    font-weight: 300;
+}
+
+ul#social-network {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+ul#social-network a {
+    text-decoration: none;
+    color: rgb(210, 208, 208);
+    margin-top: 3px;
+}
+
+i {
+    margin-right: 10px;
+    padding: auto;
+}
+
+
+
+
+#allcenter{
+    background-color: white;
+}
+
+#allcenter , .experience-education_item ,.skills div {
+    display: flex;
+}
+  
+  .experience-education{
+    padding: 15px;
+  }
+  .experience-education h2{
+      color: rgb(39, 37, 32);
+      padding-left: 60px;
+      padding-bottom: 3px;
+  }
+
+.experience-education_item div.position{
+    
+   text-align: right;
+   width: 25%;
+  
+    
+}
+.experience-education_item div.position h3{
+    text-transform: uppercase;
+    color:blue ;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 150%;
+    margin-top: 0px;
+    
+}
+.experience-education_item div.position p{
+    margin-top:-25px;
+    font-family: 
+
+
+}
+.experience-education_item article p{
+    margin-top: 0px;
+    
+}
+
+.experience-education_item article{
+    margin-left: 80px;
+    width: 750px;
+    height: 120px;
+
+    
+}
+.skills ul li{
+    
+   list-style: none;
+   margin-top: 10px;
+}
+.bg-yellow{
+    background-color: yellow;
+}
+.bg-light-blue{
+
+    background-color: lightblue;
+}
+
+#skills{
+
+display: flex;
+flex-direction: column;
+margin: 0 auto;
+       
+}
+
+.skills{
+    display: flex;
+    flex-grow: 2;
+    flex-direction: column;
+    padding: 10px;
+   margin-left: 126px;
+
+}
+.skills div{
+    display: flex;
+   
+
+}
+.skills div ul:first-child{
+    text-align: right;
+}
+.skills h2{
+    align-self: flex-start;
+}
+
+
+
+
+
+
+
+#bottom{
+    background-color: #a5a5a5;
+    margin: 0 auto;
+    
+}
+
+
+
+
+.experience-education_item div.kol{
+    display: flex;
+    text-align: left;
+    
+
+}
+
+
+
+#footer{
+  display: flex;
+}
+#HOBBIES h2{
+    color: rgba(0, 0, 0, 0.811);
+    margin-left:45px;
+    font-family:;
+    font-size: 180%;
+    
+}
+
+.figure{
+    display: flex;
+    margin-left: 35px;
+   
+}
+
+
+
+.figure figure{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+   
+
+}
+
+
+
+  
+
+
+    
